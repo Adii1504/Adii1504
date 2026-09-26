@@ -1,6 +1,6 @@
 # Hi, I'm Aditya 👋
 
-Second-year Computer Engineering student passionate about the intersection of artificial intelligence and cybersecurity, with a long-term goal of designing secure, trustworthy intelligent systems that can scale to solve real-world problems. Actively building a strong foundation in algorithms, machine learning, network security, and cryptography, and applying these skills through hands-on projects, online courses, and hackathons. Aspires to contribute to globally impactful innovation by building technology that protects critical digital infrastructure, empowers communities, and drives sustainable growth in an AI-driven world.
+Third-year Computer Engineering student passionate about the intersection of artificial intelligence and cybersecurity, with a long-term goal of designing secure, trustworthy intelligent systems that can scale to solve real-world problems. Actively building a strong foundation in algorithms, machine learning, network security, and cryptography, and applying these skills through hands-on projects, online courses, and hackathons. Aspires to contribute to globally impactful innovation by building technology that protects critical digital infrastructure, empowers communities, and drives sustainable growth in an AI-driven world.
 
 ---
 
