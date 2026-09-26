@@ -20,15 +20,6 @@ Third-year Computer Engineering student passionate about the intersection of art
 **Database:** MySQL, MongoDB 
 **Tools:** Git, GitHub, VS Code, Postman, Linux, Windows  
 
-
----
-
-## 📂 Featured Projects
-
-- **Pixel** – Modern e-commerce web app exploring full-stack development and clean UI workflows.  
-  `Repo:` [Pixel](https://github.com/Adii1504/Pixel)
-
-
 ---
 
 ## 🎯 Current Focus
